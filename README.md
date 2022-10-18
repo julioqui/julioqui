@@ -6,7 +6,7 @@
 </div>
 
 ### :man_technologist: About Me :
-  <span>I am Julio, a FullStack Developer with background in Education/Translation. Brazilian living in Japan.</span>
+  I am Julio, a FullStack Developer with background in Education/Translation. Brazilian living in Japan.
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" title="Brazil" alt="Brazil" width="15" height="10"/> 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" title="Japan" alt="Japan" width="15" height="10"/>
   
@@ -41,20 +41,17 @@
 
 ---
 ### 📝 Projects :
-<div>
-<h4>melBee</h4>
-melBee is a Web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
-</div>
+
+#### melBee
+melBee is a web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
 <div id="badges">
-  <br>
-  <a href="https://github.com/Takashicc/decafe">
+  <a href="https://github.com/melBee-newsletter/melBee">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://github.com/melBee-newsletter/melBee">
+  <a href="https://melbee.herokuapp.com/">
     <img src="https://img.shields.io/badge/heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
   </a>
 </div>
-<br>
 <div align="center">
   <a href="https://www.youtube.com/embed/Bj7EGQSIuTE?controls=0" target="_blank">
     <img width="500" alt="Link to YouTube Video" src="https://user-images.githubusercontent.com/97425307/192698075-bc402874-2da2-413b-9a5a-95df30572dd8.png">
@@ -63,23 +60,26 @@ melBee is a Web app that allows user to customize rich text html emails easily i
   YouTube Demo
 </div>
 
-<div>
-<h4>deCafé</h4>
+
+#### deCafé
 deCafé helps users to easily find decaf coffee shops. Owners can register their shop and display the menu, connecting decaf coffee shops owners to customers.
-</div>
 <div id="badges">
-  <br>
   <a href="https://github.com/Takashicc/decafe">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://decafe.vercel.app/">
+    <img src="https://img.shields.io/badge/heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
   </a>
 </div>
 <div align="center">
   <img src="https://github.com/Takashicc/decafe/blob/main/docs/images/decafe_screenshot.png" img width="500" alt="decafe image">
   <br>
-  Demo image
+  Image Demo
 </div>
 
 ---
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=julioqui&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioqui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
