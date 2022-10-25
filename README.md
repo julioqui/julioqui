@@ -6,9 +6,11 @@
 </div>
 
 <h2> :man_technologist: About Me :</h2>
+  <div>
   I am Julio, a FullStack Developer with background in Education/Translation. Brazilian living in Japan.
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" title="Brazil" alt="Brazil" width="15" height="10"/> 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" title="Japan" alt="Japan" width="15" height="10"/>
+  </div>
   
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
