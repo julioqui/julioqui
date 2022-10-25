@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+<h2> :man_technologist: About Me :</h2>
   I am Julio, a FullStack Developer with background in Education/Translation. Brazilian living in Japan.
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" title="Brazil" alt="Brazil" width="15" height="10"/> 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" title="Japan" alt="Japan" width="15" height="10"/>
@@ -18,8 +18,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-julio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julioquiezi/)
 
----
-### :hammer_and_wrench: Languages and Tools :
+<h2> :hammer_and_wrench: Languages and Tools :</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -39,8 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
 </div>
 
----
-### 📝 Projects :
+<h2> 📝 Projects :</h2>
 
 #### melBee
 melBee is a web app that allows user to customize rich text html emails easily in intuitive way without requiring coding knowledge. User can send a customized email directly from the app to their contact list which is easily added through typing an email address or uploading a CSV file.
@@ -60,6 +58,7 @@ melBee is a web app that allows user to customize rich text html emails easily i
   YouTube Demo
 </div>
 
+<h2></h2>
 
 #### deCafé
 deCafé helps users to easily find decaf coffee shops. Owners can register their shop and display the menu, connecting decaf coffee shops owners to customers.
@@ -77,9 +76,9 @@ deCafé helps users to easily find decaf coffee shops. Owners can register their
   Image Demo
 </div>
 
----
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=julioqui&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioqui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2> :fire: My Stats :</h2>
+<div align=center>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioqui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
